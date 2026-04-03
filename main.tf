@@ -13,5 +13,5 @@ provider "azuread" {}
 
 # 3. The Resource Block
 resource "azuread_application" "my_app" {
-  display_name = "milflovessanjeev"
+  display_name = "juliaann"
 }
